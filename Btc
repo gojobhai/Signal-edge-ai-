@@ -1,0 +1,10 @@
+{
+  "BTC": {
+    "signal": "Buy",
+    "explanation": "AI detected momentum surge + volume spike"
+  },
+  "USDT": {
+    "signal": "Sell",
+    "explanation": "Order book imbalance with low volatility"
+  }
+}
